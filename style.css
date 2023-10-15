@@ -39,7 +39,7 @@ body {
   padding: 152px 0px 151px 0px;
   justify-content: center;
   align-items: center;
-  background: hsl(var(--clr-grey));
+  background: #D5E1EF;
 }
 
 a:not([class]) {
